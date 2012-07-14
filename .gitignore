@@ -12,7 +12,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.classpath
+#.classpath # this is needed for Eclipse Project
 .settings/
 .loadpath
 
